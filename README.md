@@ -1,26 +1,30 @@
-### Hi there, I'm Jonny! 👋🇻🇪
-I'm an experienced **IT Technician** currently transitioning into **Cybersecurity** and **Cloud Infrastructure**.
-*(Soy Técnico TI en transición hacia Ciberseguridad e Infraestructura Cloud).*
+# Hi, I'm Jonny Lobo 👋
 
----
+IT infrastructure & security specialist with 8 years of experience, now focused on **SOC / Blue Team** roles. Based in Venezuela, open to remote work across LATAM (UTC-4).
+I build home labs to detect and investigate attacks, and I document every case the way a SOC would: evidence, analysis, verdict.
+Currently focused on **detection with Wazuh + Sysmon**, using AI tools critically: always validated against the evidence.
 
-### 🚀 About Me / Sobre Mí
-* 🔭 I’m currently working on: **Security Audits (NIST CSF) & Virtualization Labs.**
-* 🌱 I’m currently learning: **Google Cybersecurity Professional Certificate, Python & VMware vSphere.**
-* 🛡️ Goals: To work as a **SOC Analyst** or **Cloud Security Admin**.
-* ⚡ Fun fact: I treat every troubleshooting ticket like a detective case! 🕵️‍♂️
+## 🔬 Projects
 
-### 🛠️ Tech Stack / Herramientas
-| **Security** | **Infrastructure** | **Support** |
-| :--- | :--- | :--- |
-| 🕵️‍♂️ Wireshark | ☁️ VMware vSphere (Learning) | 💻 Hardware Repair |
-| 🐧 Kali Linux | 🖥️ VirtualBox | 🔧 Troubleshooting |
-| 🌐 Nmap / Burp Suite | 🔌 Cisco Packet Tracer | 📡 Networks (TCP/IP) |
+| Project | What it shows |
+|---|---|
+| **SOC Home Lab** *(in progress)* | Wazuh SIEM + Sysmon on Windows 10, alert triage with documented investigations |
+| [Network-Forensics-MitM](https://github.com/JonnyLobo/Network-Forensics-MitM) | Controlled ARP spoofing attack and packet analysis with Wireshark |
+| [SQL-Security-Forensics-Access-Logs](https://github.com/JonnyLobo/SQL-Security-Forensics-Access-Logs) | SQL investigation of failed logins and security incidents |
+| [Linux-Security-Audit](https://github.com/JonnyLobo/Linux-Security-Audit-Implementing-File-Permissions-Access-Control) | Least-privilege file permissions audit on Linux |
 
----
-*📫 Contact: jonnycorreo@gmail.com | 💼 www.linkedin.com/in/jonnylobo*
+## 🚧 What I'm working on next
+- **AI-assisted triage:** testing how AI models triage real Wazuh alerts, compared against my own documented investigations.
+- **Detection-as-code:** versioning and testing detection rules in Git.
 
-<!---
-JonnyLobo/JonnyLobo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎓 Certifications
+**Google Cybersecurity Professional Certificate** (2026) · Cisco Introduction to Cybersecurity (2025)
+
+## 🛠️ Tools
+- **Detection & analysis:** Wazuh · Sysmon · Wireshark · Nmap · Kali Linux
+- **Infrastructure:** VMware Workstation · Windows · Linux
+- **AI tools:** Claude · ChatGPT · Gemini, always validated against the evidence.
+- **Learning:** Python
+
+## 📫 Contact
+[LinkedIn](https://linkedin.com/in/jonny-lobo) · francisco.maldonado.it@gmail.com
