@@ -8,7 +8,7 @@ Currently focused on **detection with Wazuh + Sysmon**, using AI tools criticall
 
 | Project | What it shows |
 |---|---|
-| **SOC Home Lab** *(in progress)* | Wazuh SIEM + Sysmon on Windows 10, alert triage with documented investigations |
+| [SOC-Home-Lab](https://github.com/JonnyLobo/SOC-Home-Lab) | Wazuh SIEM + Sysmon on Windows 10, alert triage with documented investigations |
 | [Network-Forensics-MitM](https://github.com/JonnyLobo/Network-Forensics-MitM) | Controlled ARP spoofing attack and packet analysis with Wireshark |
 | [SQL-Security-Forensics-Access-Logs](https://github.com/JonnyLobo/SQL-Security-Forensics-Access-Logs) | SQL investigation of failed logins and security incidents |
 | [Linux-Security-Audit](https://github.com/JonnyLobo/Linux-Security-Audit-Implementing-File-Permissions-Access-Control) | Least-privilege file permissions audit on Linux |
